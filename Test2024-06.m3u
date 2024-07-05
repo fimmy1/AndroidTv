@@ -1,0 +1,715 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="RTK 1" tvg-name="AL: RTK 1" tvg-logo="http://iptv3.kbc.al/logo1/RTK1.png" group-title="Albania",AL: RTK 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/1
+#EXTINF:-1 tvg-id="RTV.21.ch" tvg-name="AL: RTV 21 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/RTV_21_Logo.png" group-title="Albania",AL: RTV 21 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/2
+#EXTINF:-1 tvg-id="KTV.Kohavision.ch" tvg-name="AL: KTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Kohavision_Logo.png" group-title="Albania",AL: KTV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/3
+#EXTINF:-1 tvg-id="Klan.Kosova.al" tvg-name="AL: Klan Kosova" tvg-logo="https://static.epg.best/al/KlanKosova.al.png" group-title="Albania",AL: Klan Kosova
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/4
+#EXTINF:-1 tvg-id="TV.Dukagjini.al" tvg-name="AL: TV Dukagjini" tvg-logo="http://iptv3.kbc.al/logo1/TVDukagjini.png" group-title="Albania",AL: TV Dukagjini
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/11
+#EXTINF:-1 tvg-id="ATV" tvg-name="AL: ATV" tvg-logo="https://www.logolynx.com/images/logolynx/9a/9a1b42980d47ad35cd714746f94b15af.png" group-title="Albania",AL: ATV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/233
+#EXTINF:-1 tvg-id="Klan TV HD" tvg-name="AL: Klan TV HD" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/tv-klan-logo.png" group-title="Albania",AL: Klan TV HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/6
+#EXTINF:-1 tvg-id="Top Channel HD" tvg-name="AL: Top Channel HD" tvg-logo="https://static.epg.best/al/TopChannel.al.png" group-title="Albania",AL: Top Channel HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/7
+#EXTINF:-1 tvg-id="T7.ch" tvg-name="AL: T7 HD" tvg-logo="http://iptv3.kbc.al/logo1/T7.png" group-title="Albania",AL: T7 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/8
+#EXTINF:-1 tvg-id="Kamal 10" tvg-name="AL: Kanali 10" tvg-logo="https://image.pngaaa.com/332/572332-middle.png" group-title="Albania",AL: Kanali 10
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/10
+#EXTINF:-1 tvg-id="TEVE 1" tvg-name="AL: T?v? 1" tvg-logo="http://iptv3.kbc.al/logo2/teve1.png" group-title="Albania",AL: T?v? 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/355
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Dasma TV" tvg-logo="http://iptv3.kbc.al/logo1/DasmaTV.png" group-title="Albania",AL: Dasma TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/464
+#EXTINF:-1 tvg-id="Alsat.M.al" tvg-name="AL: Alsat M" tvg-logo="https://static.epg.best/al/AlsatM.al.png" group-title="Albania",AL: Alsat M
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/5
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: TV Dielli" tvg-logo="https://vipotv.com/wp-content/uploads/2020/07/tv-dielli.png" group-title="Albania",AL: TV Dielli
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/9
+#EXTINF:-1 tvg-id="Peace TV" tvg-name="AL: Peace TV" tvg-logo="https://lh5.googleusercontent.com/-chE52x1Yq_4/Uk_3tXdq8HI/AAAAAAAAAmE/Wh_KGc3XXp4/s200-no/peace-tv-shqip.png" group-title="Albania",AL: Peace TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/234
+#EXTINF:-1 tvg-id="Peace TV Albanian" tvg-name="AL: Peace TV Shqip" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/Peacetv_albanian_logo.png" group-title="Albania",AL: Peace TV Shqip
+http://82.114.67.178:8081/hls/PeaceTV.m3u8
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: RTV ISLAM" tvg-logo="https://rtvislam.com/wp-content/uploads/2020/02/RTV-LOGO.png" group-title="Albania",AL: RTV ISLAM
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/257
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: RTI Islam" tvg-logo="http://iptv3.kbc.al/logo2/rtiislam.png" group-title="Albania",AL: RTI Islam
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/316
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: TV BESA" tvg-logo="http://iptv3.kbc.al/logo1/TVBesa.png" group-title="Albania",AL: TV BESA
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/438
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: TV Mitrovica" tvg-logo="http://185.222.138.254/logo/TvMitrovica.png" group-title="Albania",AL: TV Mitrovica
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/298
+#EXTINF:-1 tvg-id="Top News" tvg-name="AL: Top News" tvg-logo="http://iptv3.kbc.al/logo1/TopNews.png" group-title="Albania",AL: Top News
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/13
+#EXTINF:-1 tvg-id="Klan Macedonia" tvg-name="AL: Klan News" tvg-logo="http://185.222.138.254/logo/klannews.png" group-title="Albania",AL: Klan News
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/373
+#EXTINF:-1 tvg-id="Euronews.AL.ch" tvg-name="AL: EuroNews Albania" tvg-logo="http://iptv3.kbc.al/logo1/EuroNewsAlbania.png" group-title="Albania",AL: EuroNews Albania
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/184
+#EXTINF:-1 tvg-id="News 24" tvg-name="AL: News 24" tvg-logo="http://iptv3.kbc.al/logo1/News24.png" group-title="Albania",AL: News 24
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/374
+#EXTINF:-1 tvg-id="TV.Arta.al" tvg-name="AL: Arta News HD" tvg-logo="http://2.bp.blogspot.com/-6Woom1NDLQc/UOGDQLyqqII/AAAAAAAACsA/DB5kVDvsTJE/s1600/Arta%2BKoha%2BTV.png" group-title="Albania",AL: Arta News HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/12
+#EXTINF:-1 tvg-id="Report TV" tvg-name="AL: Report TV" tvg-logo="https://albania.mom-rsf.org/typo3temp/_processed_/5/2/csm_8026-1206_import_042f81bef9.png" group-title="Albania",AL: Report TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/325
+#EXTINF:-1 tvg-id="3 Plus" tvg-name="AL: 3 Plus" tvg-logo="https://static.epg.best/al/3Plus.al.png" group-title="Albania",AL: 3 Plus
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/14
+#EXTINF:-1 tvg-id="Vizion Plus HD" tvg-name="AL: Vizion Plus" tvg-logo="http://www.albepg.com/tvlogi/Vizion%20Plus%20HD.png" group-title="Albania",AL: Vizion Plus
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/50
+#EXTINF:-1 tvg-id="KanalD Drama" tvg-name="AL: KanalD Drama" tvg-logo="https://altinfo.cl/wp-content/uploads/2021/10/kanalddramalogo-800x445.png" group-title="Albania",AL: KanalD Drama
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/202
+#EXTINF:-1 tvg-id="Klan Plus" tvg-name="AL: Klan Plus HD" tvg-logo="https://tvshqipon.com/wp-content/uploads/2019/06/klanplus-live.png" group-title="Albania",AL: Klan Plus HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/79
+#EXTINF:-1 tvg-id="My.Music.al" tvg-name="AL: My Music" tvg-logo="http://iptv3.kbc.al/logo1/MyMusic.png" group-title="Albania",AL: My Music
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/655
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Pro 1" tvg-logo="http://iptv3.kbc.al/logo2/pro1.png" group-title="Albania",AL: Pro 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/660
+#EXTINF:-1 tvg-id="EXP.Shkence.al" tvg-name="AL: EXP Shkence" tvg-logo="https://static.epg.best/al/EXPShkence.al.png" group-title="Albania",AL: EXP Shkence
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/22
+#EXTINF:-1 tvg-id="EXP.Natyra.al" tvg-name="AL: EXP Natyra" tvg-logo="https://static.epg.best/al/EXPNatyra.al.png" group-title="Albania",AL: EXP Natyra
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/23
+#EXTINF:-1 tvg-id="EXP Histori" tvg-name="AL: EXP Histori" tvg-logo="https://static.epg.best/al/EXPHistori.al.png" group-title="Albania",AL: EXP Histori
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/24
+#EXTINF:-1 tvg-id="Art Doku 1" tvg-name="AL: ART Doku 1" tvg-logo="http://iptv3.kbc.al/logo1/ArtDoku1.png" group-title="Albania",AL: ART Doku 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/36
+#EXTINF:-1 tvg-id="Art Doku 2" tvg-name="AL: ART Doku 2" tvg-logo="http://iptv3.kbc.al/logo1/ArtDoku2.png" group-title="Albania",AL: ART Doku 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/37
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ID Discovery" tvg-logo="http://iptv3.kbc.al/logo1/iddiscovery.png" group-title="Albania",AL: ID Discovery
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/442
+#EXTINF:-1 tvg-id="Film Aksion" tvg-name="AL: Film Aksion" tvg-logo="https://static.epg.best/al/FilmAksion.al.png" group-title="Albania",AL: Film Aksion
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/25
+#EXTINF:-1 tvg-id="Film Hits+1" tvg-name="AL: Film Hits" tvg-logo="http://iptv3.kbc.al/logo2/hilmhits.png" group-title="Albania",AL: Film Hits
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/26
+#EXTINF:-1 tvg-id="Film Autor" tvg-name="AL: Film Autor" tvg-logo="https://cdn-0.tvprofil.com/img/kanali-logo/film_autor_logo.png" group-title="Albania",AL: Film Autor
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/27
+#EXTINF:-1 tvg-id="Film Thriller" tvg-name="AL: Film Thriller" tvg-logo="http://iptv3.kbc.al/logo1/FilmThriller.png" group-title="Albania",AL: Film Thriller
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/28
+#EXTINF:-1 tvg-id="Film Komedi" tvg-name="AL: Film Komedi" tvg-logo="http://iptv3.kbc.al/logo1/FilmKomedi.png" group-title="Albania",AL: Film Komedi
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/29
+#EXTINF:-1 tvg-id="Film Drame" tvg-name="AL: Film Drame" tvg-logo="http://iptv3.kbc.al/logo1/FilmDrame.png" group-title="Albania",AL: Film Drame
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/30
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Film MAX HD" tvg-logo="https://static.epg.best/al/FilmNje.al.png" group-title="Albania",AL: Film MAX HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/31
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Film Gold HD" tvg-logo="https://static.epg.best/al/FilmDy.al.png" group-title="Albania",AL: Film Gold HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/32
+#EXTINF:-1 tvg-id="EuroFilm" tvg-name="AL: EuroFilm" tvg-logo="http://iptv3.kbc.al/logo1/EUROFILM.png" group-title="Albania",AL: EuroFilm
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/207
+#EXTINF:-1 tvg-id="D Family" tvg-name="AL: Family" tvg-logo="http://iptv3.kbc.al/logo2/dfamily.png" group-title="Albania",AL: Family
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/208
+#EXTINF:-1 tvg-id="Art Kino 1" tvg-name="AL: ART Kino 1" tvg-logo="http://iptv3.kbc.al/logo1/ArtKino3.png" group-title="Albania",AL: ART Kino 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/33
+#EXTINF:-1 tvg-id="Art Kino 2" tvg-name="AL: ART Kino 2" tvg-logo="http://iptv3.kbc.al/logo1/ArtKino2.png" group-title="Albania",AL: ART Kino 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/34
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ART Kino 3" tvg-logo="http://iptv3.kbc.al/logo1/ArtKino3.png" group-title="Albania",AL: ART Kino 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/35
+#EXTINF:-1 tvg-id="T HD" tvg-name="AL: Stin?t" tvg-logo="http://iptv3.kbc.al/logo1/Stinet.png" group-title="Albania",AL: Stin?t
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/209
+#EXTINF:-1 tvg-id="Prime Tv" tvg-name="AL: Prime" tvg-logo="http://iptv3.kbc.al/logo1/PRIME.png" group-title="Albania",AL: Prime
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/51
+#EXTINF:-1 tvg-id="Episode" tvg-name="AL: Episode" tvg-logo="http://www.albepg.com/tvlogi/EPISODE.png" group-title="Albania",AL: Episode
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/52
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: BeatTV" tvg-logo="http://iptv3.kbc.al/logo2/beattvalbanienhits.png" group-title="Albania",AL: BeatTV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/53
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Guromania" tvg-logo="http://iptv3.kbc.al/logo2/guromaniachannel.png" group-title="Albania",AL: Guromania
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/80
+#EXTINF:-1 tvg-id="Tring Fantasy" tvg-name="AL: Tring Fantazi" tvg-logo="https://ewsat.com/img/TRING_FANTASY.png" group-title="Albania",AL: Tring Fantazi
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/38
+#EXTINF:-1 tvg-id="Tring Shqip" tvg-name="AL: Tring Shqip" tvg-logo="http://iptv3.kbc.al/logo1/TringShqip.png" group-title="Albania",AL: Tring Shqip
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/368
+#EXTINF:-1 tvg-id="Tring Action" tvg-name="AL: Tring Max" tvg-logo="https://ewsat.com/img/TRING_MAX.png" group-title="Albania",AL: Tring Max
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/39
+#EXTINF:-1 tvg-id="Tring Super" tvg-name="AL: Tring Super" tvg-logo="https://ewsat.com/img/TRING_SUPER.png" group-title="Albania",AL: Tring Super
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/40
+#EXTINF:-1 tvg-id="Tring Comedy" tvg-name="AL: Tring Komedi" tvg-logo="http://iptv3.kbc.al/logo1/TringComedy.png" group-title="Albania",AL: Tring Komedi
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/347
+#EXTINF:-1 tvg-id="Tring Classic" tvg-name="AL: Tring Classic" tvg-logo="http://iptv3.kbc.al/logo1/TringClassic.png" group-title="Albania",AL: Tring Classic
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/367
+#EXTINF:-1 tvg-id="Tring Collection" tvg-name="AL: Tring Collection" tvg-logo="http://iptv3.kbc.al/logo1/TringCollection.png" group-title="Albania",AL: Tring Collection
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/441
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Tring Planet" tvg-logo="http://iptv3.kbc.al/logo1/TringPlanet.png" group-title="Albania",AL: Tring Planet
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/42
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: Tring Smile" tvg-logo="http://iptv3.kbc.al/logo2/trinsmile.png" group-title="Albania",AL: Tring Smile
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/43
+#EXTINF:-1 tvg-id="Tring Life" tvg-name="AL: Tring Life" tvg-logo="https://ewsat.com/img/TRING_LIFE.png" group-title="Albania",AL: Tring Life
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/44
+#EXTINF:-1 tvg-id="Tring History" tvg-name="AL: Tring Histori" tvg-logo="https://www.pngkit.com/png/full/178-1780432_tring-history-tv-channel-frequency-eutelsat-16a-tring.png" group-title="Albania",AL: Tring Histori
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/45
+#EXTINF:-1 tvg-id="Tring World" tvg-name="AL: Tring World" tvg-logo="https://ewsat.com/img/TRING_WORLD.png" group-title="Albania",AL: Tring World
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/46
+#EXTINF:-1 tvg-id="Jolly HD" tvg-name="AL: Tring Series HD" tvg-logo="http://185.222.138.254/logo/JollyHD.png" group-title="Albania",AL: Tring Series HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/48
+#EXTINF:-1 tvg-id="Living HD" tvg-name="AL: Living" tvg-logo="http://iptv3.kbc.al/logo1/LivingHD.png" group-title="Albania",AL: Living
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/49
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: DigiGold Film 1" tvg-logo="http://iptv3.kbc.al/logo1/DigiGold1.png" group-title="Albania",AL: DigiGold Film 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/370
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: DigiGold Film 2" tvg-logo="http://iptv3.kbc.al/logo1/DigiGold2.png" group-title="Albania",AL: DigiGold Film 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/371
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: DigiGold Film 3" tvg-logo="http://iptv3.kbc.al/logo1/DigiGold3.png" group-title="Albania",AL: DigiGold Film 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/372
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: DigiGold Film 4" tvg-logo="http://iptv3.kbc.al/logo1/DigiGold4.png" group-title="Albania",AL: DigiGold Film 4
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/376
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: DigiGold Film 5" tvg-logo="http://iptv3.kbc.al/logo1/DigiGold.png" group-title="Albania",AL: DigiGold Film 5
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/377
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: 7HD" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71eVVO4zmWL.png" group-title="Albania",AL: 7HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/185
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Cinema 1" tvg-logo="http://iptv3.kbc.al/logo2/cinema1.png" group-title="Albania",AL: Cinema 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/194
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Cinema 2" tvg-logo="http://iptv3.kbc.al/logo2/cinema2.png" group-title="Albania",AL: Cinema 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/195
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Premier 1" tvg-logo="http://iptv3.kbc.al/logo2/premier1.png" group-title="Albania",AL: Premier 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/174
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Premier 2" tvg-logo="http://iptv3.kbc.al/logo2/premier2.png" group-title="Albania",AL: Premier 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/175
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Premier 3" tvg-logo="http://iptv3.kbc.al/logo2/premier3.png" group-title="Albania",AL: Premier 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/176
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Premier 4" tvg-logo="http://iptv3.kbc.al/logo2/premier4.png" group-title="Albania",AL: Premier 4
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/177
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tibo Action" tvg-logo="http://iptv3.kbc.al/logo2/tiboaction.png" group-title="Albania",AL: Tibo Action
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/664
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tibo Comedy" tvg-logo="http://iptv3.kbc.al/logo2/tibocomedy.png" group-title="Albania",AL: Tibo Comedy
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/665
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tibo Drama" tvg-logo="http://iptv3.kbc.al/logo2/tibodrama.png" group-title="Albania",AL: Tibo Drama
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/666
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tibo Thriller" tvg-logo="http://iptv3.kbc.al/logo2/tibothriller.png" group-title="Albania",AL: Tibo Thriller
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/667
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tibo Serial" tvg-logo="http://iptv3.kbc.al/logo2/tiboserial.png" group-title="Albania",AL: Tibo Serial
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/668
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tibo Prime1" tvg-logo="http://iptv3.kbc.al/logo2/tiboprime1.png" group-title="Albania",AL: Tibo Prime1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/669
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tibo Prime 2" tvg-logo="http://iptv3.kbc.al/logo2/tiboprime2.png" group-title="Albania",AL: Tibo Prime 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/670
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tibo Doc1" tvg-logo="http://iptv3.kbc.al/logo2/tibodoc1.png" group-title="Albania",AL: Tibo Doc1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/671
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tibo Doc2" tvg-logo="http://iptv3.kbc.al/logo2/tibodoc1.png" group-title="Albania",AL: Tibo Doc2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/672
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tibo Ding Dong" tvg-logo="http://iptv3.kbc.al/logo2/dingdong.png" group-title="Albania",AL: Tibo Ding Dong
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/673
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tibo Clover" tvg-logo="http://iptv3.kbc.al/logo2/tiboclover.png" group-title="Albania",AL: Tibo Clover
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/674
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Sky Planet" tvg-logo="http://iptv3.kbc.al/logo2/skyplanet.png" group-title="Albania",AL: Sky Planet
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/55
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Galaxy HD" tvg-logo="http://185.222.138.254/logo/galaxy.png" group-title="Albania",AL: Galaxy HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/56
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Sky MAX" tvg-logo="http://iptv3.kbc.al/logo2/max.png" group-title="Albania",AL: Sky MAX
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/57
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Sky Aksion" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Aksion.png" group-title="Albania",AL: Sky Aksion
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/58
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Sky Komedi" tvg-logo="http://iptv3.kbc.al/logo2/komedi.png" group-title="Albania",AL: Sky Komedi
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/60
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Sky Shkence" tvg-logo="http://www.albepg.com/tvlogi/Sky%20Shkenca.png" group-title="Albania",AL: Sky Shkence
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/61
+#EXTINF:-1 tvg-id="Digi Drame" tvg-name="AL: Sky Drame" tvg-logo="http://iptv3.kbc.al/logo2/drame.png" group-title="Albania",AL: Sky Drame
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/62
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Sky Shqip" tvg-logo="http://185.222.138.254/logo/shqip.png" group-title="Albania",AL: Sky Shqip
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/457
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Sky Novela" tvg-logo="http://iptv3.kbc.al/logo2/novela.png" group-title="Albania",AL: Sky Novela
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/458
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Novela HD" tvg-logo="http://185.222.138.254/logo/tevenovela1.png" group-title="Albania",AL: Novela HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/479
+#EXTINF:-1 tvg-id="21 Popullore" tvg-name="AL: RTV 21 Popullore" tvg-logo="http://www.albepg.com/tvlogi/21%20Popullore.png" group-title="Albania",AL: RTV 21 Popullore
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/318
+#EXTINF:-1 tvg-id="Zico.TV.ch" tvg-name="AL: ZicoTV" tvg-logo="	http://www.albepg.com/tvlogi/Zico%20TV.png" group-title="Albania",AL: ZicoTV
+http://www.albepg.com/tvlogi/Zico%20TV.png" group-title="Albania",AL: ZicoTV
+#EXTINF:-1 tvg-id="On-TV" tvg-name="AL: ON TV" tvg-logo="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F0%2F06%2FON_logo.png%2F600px-ON_logo.png" group-title="Albania",AL: ON TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/65
+#EXTINF:-1 tvg-id="First Channel" tvg-name="AL: FirstTV" tvg-logo="http://iptv3.kbc.al/logo1/firstCHANNEL.png" group-title="Albania",AL: FirstTV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/66
+#EXTINF:-1 tvg-id="BBF" tvg-name="AL: BBF " tvg-logo="http://www.albepg.com/tvlogi/BBF.png" group-title="Albania",AL: BBF 
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/67
+#EXTINF:-1 tvg-id="Elrodi TV" tvg-name="AL: Elrodi" tvg-logo="http://www.albepg.com/tvlogi/Elrodi%20TV.png" group-title="Albania",AL: Elrodi
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/68
+#EXTINF:-1 tvg-id="STV Folk" tvg-name="AL: Folk +" tvg-logo="http://www.albepg.com/tvlogi/Folk%20Plus.png" group-title="Albania",AL: Folk +
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/69
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: OpojaTV" tvg-logo="http://iptv3.kbc.al/logo1/TVOpoja.png" group-title="Albania",AL: OpojaTV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/436
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ALB See" tvg-logo="http://185.222.138.254/logo/albsehd.png" group-title="Albania",AL: ALB See
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/440
+#EXTINF:-1 tvg-id="MTV Live HD" tvg-name="AL: MTV Kosova" tvg-logo="	http://www.albepg.com/tvlogi/MTV%20Kosova.png" group-title="Albania",AL: MTV Kosova
+http://www.albepg.com/tvlogi/MTV%20Kosova.png" group-title="Albania",AL: MTV Kosova
+#EXTINF:-1 tvg-id="Kanali 7" tvg-name="AL: Kanali 7" tvg-logo="http://iptv3.kbc.al/logo1/kanali7.png" group-title="Albania",AL: Kanali 7
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/63
+#EXTINF:-1 tvg-id="Amol TV" tvg-name="AL: Amol TV" tvg-logo="http://www.albepg.com/tvlogi/AMOL.png" group-title="Albania",AL: Amol TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/72
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Tv D" tvg-logo="http://iptv3.kbc.al/logo1/DasmaTV.png" group-title="Albania",AL: Tv D
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/73
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: TV LLapi" tvg-logo="http://iptv3.kbc.al/logo2/tvllapi.png" group-title="Albania",AL: TV LLapi
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/390
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ALB Qifteli" tvg-logo="http://iptv3.kbc.al/logo2/C%cc%a7ifteli.png" group-title="Albania",AL: ALB Qifteli
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/77
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: T?v? Novela" tvg-logo="http://iptv3.kbc.al/logo2/te%cc%88ve%cc%88novela.png" group-title="Albania",AL: T?v? Novela
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/275
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: TV Tema" tvg-logo="http://www.albepg.com/tvlogi/TemA.png" group-title="Albania",AL: TV Tema
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/74
+#EXTINF:-1 tvg-id="RTSH1 HD" tvg-name="AL: RTSH Muzik" tvg-logo="http://iptv3.kbc.al/logo1/RTSHMuzike.png" group-title="Albania",AL: RTSH Muzik
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/301
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: RTSH 24" tvg-logo="http://iptv3.kbc.al/logo1/rtsh24hd.png" group-title="Albania",AL: RTSH 24
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/302
+#EXTINF:-1 tvg-id="Neser TV" tvg-name="AL: RTSH 3" tvg-logo="http://iptv3.kbc.al/logo1/rtsh3.png" group-title="Albania",AL: RTSH 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/299
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: RTSH Shqip" tvg-logo="https://www.shqipvisiontv.com/img/rtshshqip.png" group-title="Albania",AL: RTSH Shqip
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/193
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: RTK3 HD" tvg-logo="http://iptv3.kbc.al/logo1/RTK3.png" group-title="Albania",AL: RTK3 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/75
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: RTK4" tvg-logo="http://iptv3.kbc.al/logo1/RTK4.png" group-title="Albania",AL: RTK4
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/76
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Gjurm? Shqipetare" tvg-logo="http://iptv3.kbc.al/logo2/gjurmeshqipetare.png" group-title="Albania",AL: Gjurm? Shqipetare
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/290
+#EXTINF:-1 tvg-id="ALBUK TV" tvg-name="AL: ALB UK" tvg-logo="http://www.albepg.com/tvlogi/ALBUK%20HD.png" group-title="Albania",AL: ALB UK
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/78
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: BigBrother VIP Kosova 1" tvg-logo="http://iptv3.kbc.al/logo2/bigbrothervipkosova.png" group-title="Albania",AL: BigBrother VIP Kosova 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/403
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: BigBrother VIP Kosova 2" tvg-logo="http://iptv3.kbc.al/logo2/bigbrothervipkosova.png" group-title="Albania",AL: BigBrother VIP Kosova 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/404
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: BigBrother VIP Albania 1" tvg-logo="http://185.222.138.254/logo/bigbrotheralbania.png" group-title="Albania",AL: BigBrother VIP Albania 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/411
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: BigBrother VIP Albania 2" tvg-logo="http://185.222.138.254/logo/bigbrotheralbania.png" group-title="Albania",AL: BigBrother VIP Albania 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/412
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: TerraHD" tvg-logo="http://185.222.138.254/logo/terra.png" group-title="Albania",AL: TerraHD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/456
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: 21 Plus" tvg-logo="http://iptv3.kbc.al/logo1/21PlusHD.png" group-title="Albania",AL: 21 Plus
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/459
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: TV Fontana" tvg-logo="http://185.222.138.254/logo/tvfontana.png" group-title="Albania",AL: TV Fontana
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/460
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: 21 Mix" tvg-logo="http://iptv3.kbc.al/logo1/21Mix.png" group-title="Albania",AL: 21 Mix
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/462
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: TurboChannel" tvg-logo="http://185.222.138.254/logo/turbochannel.png" group-title="Albania",AL: TurboChannel
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/463
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: GameTon" tvg-logo="http://185.222.138.254/logo/gametoon.png" group-title="Albania",AL: GameTon
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/466
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: FilmBox Premium" tvg-logo="http://185.222.138.254/logo/filmboxpremium.png" group-title="Albania",AL: FilmBox Premium
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/469
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Star" tvg-logo="http://185.222.138.254/logo/fox.png" group-title="Albania",AL: Star
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/471
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Star Crime" tvg-logo="http://185.222.138.254/logo/foxcrime.png" group-title="Albania",AL: Star Crime
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/472
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Star Life" tvg-logo="http://185.222.138.254/logo/foxlife.png" group-title="Albania",AL: Star Life
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/473
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: StarTV" tvg-logo="http://185.222.138.254/logo/starhd.png" group-title="Albania",AL: StarTV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/474
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: FilmBox Family" tvg-logo="http://185.222.138.254/logo/filmboxfamily.png" group-title="Albania",AL: FilmBox Family
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/475
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: FilmBox Stars" tvg-logo="http://185.222.138.254/logo/filmboxstars.png" group-title="Albania",AL: FilmBox Stars
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/476
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: FilmBox Extra" tvg-logo="http://185.222.138.254/logo/filmboxextra.png" group-title="Albania",AL: FilmBox Extra
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/477
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: FilmBox Arthous" tvg-logo="http://185.222.138.254/logo/filmboxarthouse.png" group-title="Albania",AL: FilmBox Arthous
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/478
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Fax News" tvg-logo="http://185.222.138.254/logo/faxnews.png" group-title="Albania",AL: Fax News
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/480
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: RTV Pendimi" tvg-logo="http://iptv3.kbc.al/logo2/rtvpendimi.png" group-title="Albania",AL: RTV Pendimi
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/481
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: OpinionTV" tvg-logo="http://iptv3.kbc.al/logo1/TVOpinion.png" group-title="Albania",AL: OpinionTV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/483
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Netflix Bud Spencer & Terence Hill" tvg-logo="" group-title="Albania",AL: Netflix Bud Spencer & Terence Hill
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/675
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Netflix Van Damme" tvg-logo="" group-title="Albania",AL: Netflix Van Damme
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/676
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Netflix Arnold Schwarzenegger " tvg-logo="" group-title="Albania",AL: Netflix Arnold Schwarzenegger 
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/677
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Netflix Jackie Chan" tvg-logo="" group-title="Albania",AL: Netflix Jackie Chan
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/678
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ISP Aksion" tvg-logo="" group-title="Albania",AL: ISP Aksion
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/681
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ISP Comedy" tvg-logo="" group-title="Albania",AL: ISP Comedy
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/682
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ISP Dokumentar" tvg-logo="" group-title="Albania",AL: ISP Dokumentar
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/683
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ISP Drame" tvg-logo="" group-title="Albania",AL: ISP Drame
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/684
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ISP Film" tvg-logo="" group-title="Albania",AL: ISP Film
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/685
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ISP Hits" tvg-logo="" group-title="Albania",AL: ISP Hits
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/686
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ISP Kalamanjt" tvg-logo="" group-title="Albania",AL: ISP Kalamanjt
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/687
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ISP Mix" tvg-logo="" group-title="Albania",AL: ISP Mix
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/688
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ISP Pikpytje" tvg-logo="" group-title="Albania",AL: ISP Pikpytje
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/689
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ISP Premier" tvg-logo="" group-title="Albania",AL: ISP Premier
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/690
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: ISP Thirller" tvg-logo="" group-title="Albania",AL: ISP Thirller
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/691
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: SuperSport 1 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="Sport",AL: SuperSport 1 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/81
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: SuperSport 2 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" group-title="Sport",AL: SuperSport 2 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/82
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="AL: SuperSport 3 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png" group-title="Sport",AL: SuperSport 3 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/83
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: SuperSport 4 HD" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png" group-title="Sport",AL: SuperSport 4 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/84
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="AL: SuperSport 5 HD" tvg-logo="http://iptv3.kbc.al/logo1/supersport5hd.png" group-title="Sport",AL: SuperSport 5 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/326
+#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="AL: SuperSport 6 HD" tvg-logo="http://iptv3.kbc.al/logo1/supersport6.png" group-title="Sport",AL: SuperSport 6 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/327
+#EXTINF:-1 tvg-id="SuperSport 7" tvg-name="AL: SuperSport 7 HD" tvg-logo="http://iptv3.kbc.al/logo1/supersport7.png" group-title="Sport",AL: SuperSport 7 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/328
+#EXTINF:-1 tvg-id="SuperSport Kosova 1" tvg-name="AL: SuperSport Kosova 1 HD" tvg-logo="http://iptv3.kbc.al/logo1/SSKosova1.png" group-title="Sport",AL: SuperSport Kosova 1 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/258
+#EXTINF:-1 tvg-id="SuperSport Kosova 2" tvg-name="AL: SuperSport Kosova 2 HD" tvg-logo="http://iptv3.kbc.al/logo1/SSKosova2.png" group-title="Sport",AL: SuperSport Kosova 2 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/329
+#EXTINF:-1 tvg-id="SuperSport Kosova 3" tvg-name="AL: SuperSport Kosova 3 HD" tvg-logo="http://iptv3.kbc.al/logo1/SSKosova3.png" group-title="Sport",AL: SuperSport Kosova 3 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/259
+#EXTINF:-1 tvg-id="Art Sport 1" tvg-name="AL: Art Sport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-artsport-1-2659.png" group-title="Sport",AL: Art Sport 1 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/93
+#EXTINF:-1 tvg-id="Art Sport 2" tvg-name="AL: Art Sport 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-artsport-2-2660.png" group-title="Sport",AL: Art Sport 2 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/94
+#EXTINF:-1 tvg-id="Art Sport 3" tvg-name="AL: Art Sport 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-artsport-3-2661.png" group-title="Sport",AL: Art Sport 3 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/95
+#EXTINF:-1 tvg-id="Art Sport 4" tvg-name="AL: Art Sport 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-artsport-4-2662.png" group-title="Sport",AL: Art Sport 4 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/322
+#EXTINF:-1 tvg-id="Art Sport 5" tvg-name="AL: Art Sport 5 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-artsport-5-2663.png" group-title="Sport",AL: Art Sport 5 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/323
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL: Tring Sport News" tvg-logo="http://iptv3.kbc.al/logo1/TringSportNewsHD.png" group-title="Sport",AL: Tring Sport News
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/600
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%201%20HD.png" group-title="Sport",AL: Tring Sport 1 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/85
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="AL: Tring Sport 2 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%202%20HD.png" group-title="Sport",AL: Tring Sport 2 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/86
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%203%20HD.png" group-title="Sport",AL: Tring Sport 3 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/88
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 HD" tvg-logo="http://www.albepg.com/tvlogi/Tring%20Sport%204%20HD.png" group-title="Sport",AL: Tring Sport 4 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/89
+#EXTINF:-1 tvg-id="Kujtesa Sport 1" tvg-name="AL: Kujtesa Sport 1 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-1-1855.png" group-title="Sport",AL: Kujtesa Sport 1 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/90
+#EXTINF:-1 tvg-id="Kujtesa Sport 2" tvg-name="AL: Kujtesa Sport 2 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-2-1856.png" group-title="Sport",AL: Kujtesa Sport 2 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/91
+#EXTINF:-1 tvg-id="Kujtesa Sport 3" tvg-name="AL: Kujtesa Sport 3 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-3-1857.png" group-title="Sport",AL: Kujtesa Sport 3 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/92
+#EXTINF:-1 tvg-id="Kujtesa Sport 4" tvg-name="AL: Kujtesa Sport 4 HD" tvg-logo="https://img.sport-tv-guide.live/images/tv-station-k-sport-4-1857.png" group-title="Sport",AL: Kujtesa Sport 4 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/97
+#EXTINF:-1 tvg-id="OverSport 1" tvg-name="AL: OverSport 1 HD" tvg-logo="http://185.222.138.254/logo/oversport.png" group-title="Sport",AL: OverSport 1 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/385
+#EXTINF:-1 tvg-id="OverSport 2" tvg-name="AL: OverSport 2 HD" tvg-logo="http://185.222.138.254/logo/oversport.png" group-title="Sport",AL: OverSport 2 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/386
+#EXTINF:-1 tvg-id="OverSport 3" tvg-name="AL: OverSport 3 HD" tvg-logo="http://185.222.138.254/logo/oversport.png" group-title="Sport",AL: OverSport 3 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/387
+#EXTINF:-1 tvg-id="OverSport 4" tvg-name="AL: OverSport 4 HD" tvg-logo="http://185.222.138.254/logo/oversport.png" group-title="Sport",AL: OverSport 4 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/388
+#EXTINF:-1 tvg-id="Xtream Sport" tvg-name="AL: Xtream Sport" tvg-logo="http://185.222.138.254/logo/extreamsport.png" group-title="Sport",AL: Xtream Sport
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/470
+#EXTINF:-1 tvg-id="ArenaSport1.rs" tvg-name="SRB: Arena Sport 1" tvg-logo="http://iptv3.kbc.al/logo1/ArenaSport1.png" group-title="Sport",SRB: Arena Sport 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/102
+#EXTINF:-1 tvg-id="ArenaSport2.rs" tvg-name="SRB: Arena Sport 2" tvg-logo="http://185.222.138.254/logo/Arena Sport 2.png" group-title="Sport",SRB: Arena Sport 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/103
+#EXTINF:-1 tvg-id="ArenaSport3.rs" tvg-name="SRB: Arena Sport 3" tvg-logo="http://185.222.138.254/logo/Arena Sport 3.png" group-title="Sport",SRB: Arena Sport 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/104
+#EXTINF:-1 tvg-id="ArenaSport4.rs" tvg-name="SRB: Arena Sport 4" tvg-logo="http://185.222.138.254/logo/Arena Sport 4.png" group-title="Sport",SRB: Arena Sport 4
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/105
+#EXTINF:-1 tvg-id="ArenaSport5.rs" tvg-name="SRB: Arena Sport 5" tvg-logo="http://185.222.138.254/logo/Arena Sport 5.png" group-title="Sport",SRB: Arena Sport 5
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/113
+#EXTINF:-1 tvg-id="Arena Sport Premium 1" tvg-name="SRB: Arena Sport Premium 1" tvg-logo="http://iptv3.kbc.al/logo1/arenasportpremium1.png" group-title="Sport",SRB: Arena Sport Premium 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/494
+#EXTINF:-1 tvg-id="Arena Sport Premium 2" tvg-name="SRB: Arena Sport Premium 2" tvg-logo="http://iptv3.kbc.al/logo1/arenasportpremium2.png" group-title="Sport",SRB: Arena Sport Premium 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/495
+#EXTINF:-1 tvg-id="Arena Sport Premium 3" tvg-name="SRB: Arena Sport Premium 3" tvg-logo="http://iptv3.kbc.al/logo1/arenasportpremium3.png" group-title="Sport",SRB: Arena Sport Premium 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/496
+#EXTINF:-1 tvg-id="beIN_SPORTS1_DIGITAL_Mono_EN.bein" tvg-name="AR: beIN Sports 1" tvg-logo="http://iptv3.kbc.al/logo/ticaribeinsportshd1.png" group-title="Sport",AR: beIN Sports 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/652
+#EXTINF:-1 tvg-id="beIN_SPORTS2_DIGITAL_Mono_EN.bein" tvg-name="AR: beIN Sports 2" tvg-logo="http://iptv3.kbc.al/logo/ticaribeinsportshd2.png" group-title="Sport",AR: beIN Sports 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/651
+#EXTINF:-1 tvg-id="beIN_SPORTS3_DIGITAL_Mono_EN.bein" tvg-name="AR: beIN Sports 3" tvg-logo="http://iptv3.kbc.al/logo/ticaribeinsportshd3.png" group-title="Sport",AR: beIN Sports 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/650
+#EXTINF:-1 tvg-id="beIN_SPORTS4_DIGITAL_Mono_EN.bein" tvg-name="AR: beIN Sports 4" tvg-logo="http://iptv3.kbc.al/logo/ticaribeinsportshd4.png" group-title="Sport",AR: beIN Sports 4
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/649
+#EXTINF:-1 tvg-id="beIN_SPORTS5_DIGITAL_Mono_EN.bein" tvg-name="AR: beIN Sports 5" tvg-logo="http://iptv3.kbc.al/logo1/beiensports5.png" group-title="Sport",AR: beIN Sports 5
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/648
+#EXTINF:-1 tvg-id="beIN_SPORTS66_DIGITAL_Mono-01_EN.bein" tvg-name="AR: beIN Sports 6" tvg-logo="http://iptv3.kbc.al/logo1/beiensports6.png" group-title="Sport",AR: beIN Sports 6
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/647
+#EXTINF:-1 tvg-id="beIN_SPORTS7_DIGITAL_Mono_EN.bein" tvg-name="AR: beIN Sports 7" tvg-logo="http://iptv3.kbc.al/logo1/beiensports7.png" group-title="Sport",AR: beIN Sports 7
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/646
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.HD.it" tvg-name="IT: Sky Sport Calcio HD" tvg-logo="http://iptv3.kbc.al/logo1/skysportcalciohd.png" group-title="Sport",IT: Sky Sport Calcio HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/627
+#EXTINF:-1 tvg-id="ext" tvg-name="TR: Tivibu Spor 1" tvg-logo="http://iptv3.kbc.al/logo1/tivibuspor.png" group-title="Sport",TR: Tivibu Spor 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/642
+#EXTINF:-1 tvg-id="ext" tvg-name="TR: Tivibu Spor 2" tvg-logo="http://iptv3.kbc.al/logo1/tivibuspor2.png" group-title="Sport",TR: Tivibu Spor 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/643
+#EXTINF:-1 tvg-id="ext" tvg-name="TR: Tivibu Spor 3" tvg-logo="http://iptv3.kbc.al/logo1/tivibuspor3.png" group-title="Sport",TR: Tivibu Spor 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/644
+#EXTINF:-1 tvg-id="ext" tvg-name="FR: Bein Sport 1" tvg-logo="http://iptv3.kbc.al/logo/ticaribeinsports1.png" group-title="Sport",FR: Bein Sport 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/610
+#EXTINF:-1 tvg-id="ext" tvg-name="FR: Bein Sport 2 " tvg-logo="http://iptv3.kbc.al/logo/ticaribeinsports2.png" group-title="Sport",FR: Bein Sport 2 
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/611
+#EXTINF:-1 tvg-id="ext" tvg-name="FR: Bein Sport 3" tvg-logo="http://iptv3.kbc.al/logo/ticaribeinsports3.png" group-title="Sport",FR: Bein Sport 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/612
+#EXTINF:-1 tvg-id="ext" tvg-name="FR: Bein Sport 4" tvg-logo="http://iptv3.kbc.al/logo/ticaribeinsports4.png" group-title="Sport",FR: Bein Sport 4
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/613
+#EXTINF:-1 tvg-id="DE: Eurosport 1" tvg-name="DE: Eurosport 1" tvg-logo="http://iptv3.kbc.al/logo/EUROSPORT%201.png" group-title="Sport",DE: Eurosport 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/98
+#EXTINF:-1 tvg-id="DE: Eurosport 2" tvg-name="DE: Eurosport 2" tvg-logo="http://iptv3.kbc.al/logo/EUROSPORT%202.png" group-title="Sport",DE: Eurosport 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/99
+#EXTINF:-1 tvg-id="DE: DAZN 1" tvg-name="DE: DAZN 1 HD" tvg-logo="http://iptv3.kbc.al/logo/dazn1hd.png" group-title="Sport",DE: DAZN 1 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/100
+#EXTINF:-1 tvg-id="DE: DAZN 2" tvg-name="DE: DAZN 2 HD" tvg-logo="http://iptv3.kbc.al/logo/dazn2barhd.png" group-title="Sport",DE: DAZN 2 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/101
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 1" tvg-name="DE: Sky Sport Bundesliga 1" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Bundesliga%20HD%201.png" group-title="Sport",DE: Sky Sport Bundesliga 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/128
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 2" tvg-name="DE: Sky Sport Bundesliga 2" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Bundesliga%20HD%202.png" group-title="Sport",DE: Sky Sport Bundesliga 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/129
+#EXTINF:-1 tvg-id="DE: Sky Bundesliga 3" tvg-name="DE: Sky Sport Bundesliga 3" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Bundesliga%20HD%203.png" group-title="Sport",DE: Sky Sport Bundesliga 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/130
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.4.HD.de" tvg-name="DE: Sky Sport Bundesliga 4" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Bundesliga%20HD%204.png" group-title="Sport",DE: Sky Sport Bundesliga 4
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/131
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.5.HD.de" tvg-name="DE: Sky Sport Bundesliga 5" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Bundesliga%20HD%205.png" group-title="Sport",DE: Sky Sport Bundesliga 5
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/132
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 6 HD" tvg-name="DE: Sky Sport Bundesliga 6" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Bundesliga%20HD%206.png" group-title="Sport",DE: Sky Sport Bundesliga 6
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/133
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 7 HD" tvg-name="DE: Sky Sport Bundesliga 7" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Bundesliga%20HD%207.png" group-title="Sport",DE: Sky Sport Bundesliga 7
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/134
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 8 HD" tvg-name="DE: Sky Sport Bundesliga 8" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Bundesliga%20HD%208.png" group-title="Sport",DE: Sky Sport Bundesliga 8
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/135
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 9 HD" tvg-name="DE: Sky Sport Bundesliga 9" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Bundesliga%20HD%209.png" group-title="Sport",DE: Sky Sport Bundesliga 9
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/136
+#EXTINF:-1 tvg-id="Sky Sport Bundesliga 10 HD" tvg-name="DE: Sky Sport Bundesliga 10" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Bundesliga%20HD%2010.png" group-title="Sport",DE: Sky Sport Bundesliga 10
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/137
+#EXTINF:-1 tvg-id="AT: Sky Sport Austria 1" tvg-name="DE: Sky Sport Austria" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Sport%20Austria%20HD.png" group-title="Sport",DE: Sky Sport Austria
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/127
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.Leaque.de" tvg-name="DE: Sky Sport 1 " tvg-logo="http://iptv3.kbc.al/logo/Sky%20Sport%20HD%201.png" group-title="Sport",DE: Sky Sport 1 
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/121
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.de" tvg-name="DE: Sky Sport 2" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Sport%20HD%202.png" group-title="Sport",DE: Sky Sport 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/122
+#EXTINF:-1 tvg-id="DE: Sky Sport 3" tvg-name="DE: Sky Sport 3" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Sport%20HD%203.png" group-title="Sport",DE: Sky Sport 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/123
+#EXTINF:-1 tvg-id="Sky Sport 4 HD" tvg-name="DE: Sky Sport 4" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Sport%20HD%204.png" group-title="Sport",DE: Sky Sport 4
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/124
+#EXTINF:-1 tvg-id="Sky Sport 5 HD" tvg-name="DE: Sky Sport 5" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Sport%20HD%205.png" group-title="Sport",DE: Sky Sport 5
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/125
+#EXTINF:-1 tvg-id="Sky Sport 6 HD" tvg-name="DE: Sky Sport 6" tvg-logo="http://iptv3.kbc.al/logo/Sky%20Sport%20HD%206.png" group-title="Sport",DE: Sky Sport 6
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/126
+#EXTINF:-1 tvg-id="ESPNNetherlands.nl" tvg-name="NL: FOX Sports 1 " tvg-logo="http://iptv3.kbc.al/logo1/foxsports1hd.png" group-title="Sport",NL: FOX Sports 1 
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/253
+#EXTINF:-1 tvg-id="Fox.Sports.2.HDTV.(Cono.Norte).(FOXSP2HD).do" tvg-name="NL: Fox Sports 2" tvg-logo="http://iptv3.kbc.al/logo1/foxsports2hd.png" group-title="Sport",NL: Fox Sports 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/254
+#EXTINF:-1 tvg-id="FOX.SPORTS.3.HD.(FoxSports3HD).pe" tvg-name="NL: Fox Sports 3" tvg-logo="http://iptv3.kbc.al/logo1/foxsports3hd.png" group-title="Sport",NL: Fox Sports 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/255
+#EXTINF:-1 tvg-id="FR: Canal + Sport 1" tvg-name="FR: Canal + Sport 1" tvg-logo="" group-title="Sport",FR: Canal + Sport 1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/692
+#EXTINF:-1 tvg-id="ext" tvg-name="FR: Canal Sport+ 3" tvg-logo="" group-title="Sport",FR: Canal + Sport 3
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/693
+#EXTINF:-1 tvg-id="FR: Canal + Sport 4" tvg-name="FR: Canal + Sport 4" tvg-logo="" group-title="Sport",FR: Canal + Sport 4
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/694
+#EXTINF:-1 tvg-id="(FR)..RMC.SPORT.2.be" tvg-name="FR: RMC Sport 2 HD" tvg-logo="https://www.programme-tv.net/imgre/fit/~2~channel~bd9dce9c307daa98.png/1200x630/crop-from/top/quality/80/rmc-sport-2.png" group-title="Sport",FR: RMC Sport 2 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/274
+#EXTINF:-1 tvg-id="Klan Kosova" tvg-name="AL: Tring Tring" tvg-logo="https://static.epg.best/al/TringTring.al.png" group-title="Kids",AL: Tring Tring
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/15
+#EXTINF:-1 tvg-id="KIDS" tvg-name="AL: Kids" tvg-logo="http://www.albepg.com/tvlogi/Kids.png" group-title="Kids",AL: Kids
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/16
+#EXTINF:-1 tvg-id="Tip TV" tvg-name="AL: Tring TIP TV" tvg-logo="http://185.222.138.254/logo/tiptv.png" group-title="Kids",AL: Tring TIP TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/437
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: Digi Sofia" tvg-logo="http://www.albepg.com/tvlogi/Sofia.png" group-title="Kids",AL: Digi Sofia
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/17
+#EXTINF:-1 tvg-id="Bang.Bang.al" tvg-name="AL: Bang Bang" tvg-logo="https://static.epg.best/al/BangBang.al.png" group-title="Kids",AL: Bang Bang
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/18
+#EXTINF:-1 tvg-id="Cufo.TV.al" tvg-name="AL: Cufo TV" tvg-logo="https://static.epg.best/al/CufoTV.al.png" group-title="Kids",AL: Cufo TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/19
+#EXTINF:-1 tvg-id="Tom&Jerry" tvg-name="AL: Tom&Jerry" tvg-logo="http://iptv3.kbc.al/logo2/tom_jerry.png" group-title="Kids",AL: Tom&Jerry
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/620
+#EXTINF:-1 tvg-id="Baby TV" tvg-name="AL: Baby TV" tvg-logo="https://cdn.technadu.com/wp-content/uploads/2018/08/Babytv-696x392.png" group-title="Kids",AL: Baby TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/20
+#EXTINF:-1 tvg-id="TeleSport" tvg-name="AL: Prince Kids" tvg-logo="http://iptv3.kbc.al/logo1/PrinceKids.png" group-title="Kids",AL: Prince Kids
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/21
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: TaoTao" tvg-logo="http://iptv3.kbc.al/logo2/taotao.png" group-title="Kids",AL: TaoTao
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/461
+#EXTINF:-1 tvg-id="ext" tvg-name="AL: Kids ART" tvg-logo="http://iptv3.kbc.al/logo2/kidsart.png" group-title="Kids",AL: Kids ART
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/178
+#EXTINF:-1 tvg-id="DE: Deluxe Music" tvg-name="DE: Delux Music" tvg-logo="http://iptv3.kbc.al/logo/DELUXE%20MUSIC.png" group-title="EUROPE",DE: Delux Music
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/356
+#EXTINF:-1 tvg-id="Toggo.Plus.ch" tvg-name="DE: Toggo" tvg-logo="http://iptv3.kbc.al/logo/toggoplushd.png" group-title="EUROPE",DE: Toggo
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/445
+#EXTINF:-1 tvg-id="SUPER.RTL.de" tvg-name="DE: Super RTL" tvg-logo="http://iptv3.kbc.al/logo/SUPER%20RTL%20HD.png" group-title="EUROPE",DE: Super RTL
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/138
+#EXTINF:-1 tvg-id="Disney.XD.(East).(DISXD).jm" tvg-name="DE: Disney XD" tvg-logo="http://iptv3.kbc.al/logo/disneyxd.png" group-title="EUROPE",DE: Disney XD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/633
+#EXTINF:-1 tvg-id="DE: Nick/CC+1" tvg-name="DE: Nickelodeon" tvg-logo="http://iptv3.kbc.al/logo/nickelodeon.png" group-title="EUROPE",DE: Nickelodeon
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/590
+#EXTINF:-1 tvg-id="DE: KiKA" tvg-name="DE: KIKA" tvg-logo="http://iptv3.kbc.al/logo/KiKA%20HD.png" group-title="EUROPE",DE: KIKA
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/231
+#EXTINF:-1 tvg-id="Das.Erste.ch" tvg-name="DE: ARD" tvg-logo="http://iptv3.kbc.al/logo1/arddaserste.png" group-title="EUROPE",DE: ARD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/226
+#EXTINF:-1 tvg-id="DE: ZDF" tvg-name="DE: ZDF" tvg-logo="http://iptv3.kbc.al/logo/ZDF%20HD.png" group-title="EUROPE",DE: ZDF
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/227
+#EXTINF:-1 tvg-id="DE: SAT.1" tvg-name="DE: Sat.1" tvg-logo="http://iptv3.kbc.al/logo/sat1hd.png" group-title="EUROPE",DE: Sat.1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/152
+#EXTINF:-1 tvg-id="DE: RTL" tvg-name="DE: RTL" tvg-logo="http://iptv3.kbc.al/logo/RTL%20HD.png" group-title="EUROPE",DE: RTL
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/144
+#EXTINF:-1 tvg-id="DE: RTL ZWEI" tvg-name="DE: RTL II" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rtl-zwei-de.png" group-title="EUROPE",DE: RTL II
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/145
+#EXTINF:-1 tvg-id="DE: ProSieben" tvg-name="DE: ProSieben" tvg-logo="http://185.222.138.254/logo1/pro7.png" group-title="EUROPE",DE: ProSieben
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/148
+#EXTINF:-1 tvg-id="DE: ProSieben MAXX" tvg-name="DE: ProSieben Maxx" tvg-logo="http://185.222.138.254/logo1/pro7maxx.png" group-title="EUROPE",DE: ProSieben Maxx
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/149
+#EXTINF:-1 tvg-id="DE: VOX" tvg-name="DE: VOX" tvg-logo="https://www.lyngsat-logo.com/logo/tv/vv/vox_de.png" group-title="EUROPE",DE: VOX
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/150
+#EXTINF:-1 tvg-id="DE: Kabel Eins" tvg-name="DE: kabel eins" tvg-logo="http://iptv3.kbc.al/logo/kabel%20eins%20HD.png" group-title="EUROPE",DE: kabel eins
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/146
+#EXTINF:-1 tvg-id="DE: WELT" tvg-name="DE: Welt" tvg-logo="http://iptv3.kbc.al/logo/welt.png" group-title="EUROPE",DE: Welt
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/361
+#EXTINF:-1 tvg-id="DE: Tagesschau24" tvg-name="DE: Tagesschau 24 " tvg-logo="http://iptv3.kbc.al/logo/tagesschau24.png" group-title="EUROPE",DE: Tagesschau 24 
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/335
+#EXTINF:-1 tvg-id="DE: Sony AXN" tvg-name="DE: AXN HD" tvg-logo="http://iptv3.kbc.al/logo/AXN.png" group-title="EUROPE",DE: AXN HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/636
+#EXTINF:-1 tvg-id="DE: N24 Doku" tvg-name="DE: N24 Doku HD" tvg-logo="http://iptv3.kbc.al/logo/n24doku.png" group-title="EUROPE",DE: N24 Doku HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/637
+#EXTINF:-1 tvg-id="DE: DMAX" tvg-name="DE: DMAX HD" tvg-logo="http://iptv3.kbc.al/logo/DMAX%20HD.png" group-title="EUROPE",DE: DMAX HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/288
+#EXTINF:-1 tvg-id="DE: ARTE" tvg-name="DE: ARTE HD" tvg-logo="http://iptv3.kbc.al/logo/arte%20HD.png" group-title="EUROPE",DE: ARTE HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/632
+#EXTINF:-1 tvg-id="DE: N-TV" tvg-name="DE: n-tv" tvg-logo="http://iptv3.kbc.al/logo/n-tv%20HD.png" group-title="EUROPE",DE: n-tv
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/151
+#EXTINF:-1 tvg-id="AT: ORF 1" tvg-name="DE: ORF 1 HD" tvg-logo="http://iptv3.kbc.al/logo/ORF1.png" group-title="EUROPE",DE: ORF 1 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/638
+#EXTINF:-1 tvg-id="AT: ORF 2" tvg-name="DE: ORF 2 HD" tvg-logo="http://iptv3.kbc.al/logo/ORF2.png" group-title="EUROPE",DE: ORF 2 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/639
+#EXTINF:-1 tvg-id="DE: NITRO" tvg-name="DE: RTL Nitro" tvg-logo="http://iptv3.kbc.al/logo/RTLNitro%20HD.png" group-title="EUROPE",DE: RTL Nitro
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/252
+#EXTINF:-1 tvg-id="DE: RTL Living" tvg-name="DE: RTL Living" tvg-logo="http://iptv3.kbc.al/logo/rtllivinghd.png" group-title="EUROPE",DE: RTL Living
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/630
+#EXTINF:-1 tvg-id="kabel.eins.Doku.ch" tvg-name="DE: Kabel Eins Doku" tvg-logo="http://iptv3.kbc.al/logo/kabeleinsdokuhd.png" group-title="EUROPE",DE: Kabel Eins Doku
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/330
+#EXTINF:-1 tvg-id="History.ch" tvg-name="DE: History HD" tvg-logo="http://iptv3.kbc.al/logo/skyhistory.png" group-title="EUROPE",DE: History HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/169
+#EXTINF:-1 tvg-id="DE: Spiegel Geschichte" tvg-name="DE: Spiegel Geschichte" tvg-logo="http://iptv3.kbc.al/logo/Spiegel%20Geschichte%20HD.png" group-title="EUROPE",DE: Spiegel Geschichte
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/271
+#EXTINF:-1 tvg-id="Discovery.Channel.D.ch" tvg-name="DE: Discovery Channel" tvg-logo="http://iptv3.kbc.al/logo/DISCOVERY.png" group-title="EUROPE",DE: Discovery Channel
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/315
+#EXTINF:-1 tvg-id="DE: Animal Planet" tvg-name="DE: Animal Planet" tvg-logo="	http://www.albepg.com/tvlogi/Animal%20Planet.png" group-title="EUROPE",DE: Animal Planet
+http://www.albepg.com/tvlogi/Animal%20Planet.png" group-title="EUROPE",DE: Animal Planet
+#EXTINF:-1 tvg-id="DE: National Geographic WILD" tvg-name="DE: Nat Geo Wild" tvg-logo="http://iptv3.kbc.al/logo/NAT%20GEO%20WILD.png" group-title="EUROPE",DE: Nat Geo Wild
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/170
+#EXTINF:-1 tvg-id="Nat.Geo.HD.de" tvg-name="DE: Nat Geographic HD" tvg-logo="http://iptv3.kbc.al/logo/NAT%20GEO%20HD.png" group-title="EUROPE",DE: Nat Geographic HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/171
+#EXTINF:-1 tvg-id="RTL.Crime.ch" tvg-name="DE: Rtl Crime" tvg-logo="http://iptv3.kbc.al/logo/rtlcrimehd.png" group-title="EUROPE",DE: Rtl Crime
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/661
+#EXTINF:-1 tvg-id="kabel.eins.CLASSICS.ch" tvg-name="DE: Kabel Eins Classics" tvg-logo="http://iptv3.kbc.al/logo/kabeleinsclassicshd.png" group-title="EUROPE",DE: Kabel Eins Classics
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/662
+#EXTINF:-1 tvg-id="13th.Street.ch" tvg-name="DE: 13th Street HD" tvg-logo="http://iptv3.kbc.al/logo/13th-Street-HD.png" group-title="EUROPE",DE: 13th Street HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/159
+#EXTINF:-1 tvg-id="DE: Sky Replay" tvg-name="DE: Sky Replay HD" tvg-logo="http://iptv3.kbc.al/logo/skyreplayhd.png" group-title="EUROPE",DE: Sky Replay HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/160
+#EXTINF:-1 tvg-id="Warner.TV.Film.de" tvg-name="DE: Warner Film" tvg-logo="https://apfeltv.de/wp-content/uploads/2021/09/WBTV-FILM_LOGO-RGB-COLOR.png" group-title="EUROPE",DE: Warner Film
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/163
+#EXTINF:-1 tvg-id="Warner.TV.Serie.de" tvg-name="DE: Warner Serie" tvg-logo="https://apfeltv.de/wp-content/uploads/2021/09/WBTV-SERIE_LOGO-RGB-COLOR.png" group-title="EUROPE",DE: Warner Serie
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/167
+#EXTINF:-1 tvg-id="Warner.TV.Comedy.de" tvg-name="DE: Warner Comedy" tvg-logo="http://iptv3.kbc.al/logo/warnertvcomedyhd.png" group-title="EUROPE",DE: Warner Comedy
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/619
+#EXTINF:-1 tvg-id="Syfy.D.ch" tvg-name="DE: Syfy " tvg-logo="http://185.222.138.254/logo/Syfy-HD.png" group-title="EUROPE",DE: Syfy 
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/162
+#EXTINF:-1 tvg-id="DE: Sky Cinema Action" tvg-name="DE: Sky Action" tvg-logo="http://iptv3.kbc.al/logo/skyactionhd.png" group-title="EUROPE",DE: Sky Action
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/286
+#EXTINF:-1 tvg-id="Sky.Cinema.Thriller.HD.de" tvg-name="DE: Sky Cinema Thriller" tvg-logo="http://iptv3.kbc.al/logo/skycinemathrillerhd.png" group-title="EUROPE",DE: Sky Cinema Thriller
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/384
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.de" tvg-name="DE: Sky Atlantic HD" tvg-logo="http://iptv3.kbc.al/logo/skyatlantichd.png" group-title="EUROPE",DE: Sky Atlantic HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/246
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="DE: Sky Cinema Classics" tvg-logo="http://iptv3.kbc.al/logo/skycinemaclassicshd.png" group-title="EUROPE",DE: Sky Cinema Classics
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/173
+#EXTINF:-1 tvg-id="Sky.Cinema.Premieren.de" tvg-name="DE: Sky Cinema Premieren" tvg-logo="http://iptv3.kbc.al/logo/skycinemapremierenhd.png" group-title="EUROPE",DE: Sky Cinema Premieren
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/614
+#EXTINF:-1 tvg-id="Sky.Cinema.Special.HD.de" tvg-name="DE: Sky Cinema Special" tvg-logo="https://senderlogos.images.dvbdata.com/302x190_w/12121.png" group-title="EUROPE",DE: Sky Cinema Special
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/663
+#EXTINF:-1 tvg-id="Sky.Cinema.Best.Of.de" tvg-name="DE: Sky Cinema Best of Hits" tvg-logo="http://iptv3.kbc.al/logo/skycinemabestofhd.png" group-title="EUROPE",DE: Sky Cinema Best of Hits
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/615
+#EXTINF:-1 tvg-id="Sky.Cinema.Special.HD.de" tvg-name="DE: Sky Cinema 1 4k" tvg-logo="http://iptv3.kbc.al/logo/skycinema.png" group-title="EUROPE",DE: Sky Cinema 1 4k
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/616
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: Sky Select 1 4K" tvg-logo="http://iptv3.kbc.al/logo/skyselect1.png" group-title="EUROPE",DE: Sky Select 1 4K
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/602
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: Sky Select 2 4k" tvg-logo="http://iptv3.kbc.al/logo/skyselect2.png" group-title="EUROPE",DE: Sky Select 2 4k
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/603
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: Sky Select 3 4k" tvg-logo="http://iptv3.kbc.al/logo/skyselect2.png" group-title="EUROPE",DE: Sky Select 3 4k
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/604
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: Sky Select 4 4k" tvg-logo="http://iptv3.kbc.al/logo/skyselect2.png" group-title="EUROPE",DE: Sky Select 4 4k
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/605
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: Sky Select 5 4k" tvg-logo="http://iptv3.kbc.al/logo/skyselect2.png" group-title="EUROPE",DE: Sky Select 5 4k
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/606
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: Sky Select 6 4k" tvg-logo="http://iptv3.kbc.al/logo/skyselect2.png" group-title="EUROPE",DE: Sky Select 6 4k
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/607
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: Sky Select 7 4k" tvg-logo="http://iptv3.kbc.al/logo/skyselect2.png" group-title="EUROPE",DE: Sky Select 7 4k
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/608
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: Sky Select 8 4k" tvg-logo="http://iptv3.kbc.al/logo/skyselect2.png" group-title="EUROPE",DE: Sky Select 8 4k
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/609
+#EXTINF:-1 tvg-id="DE: Auto Motor und Sport" tvg-name="DE: Auto Motor und Sport" tvg-logo="http://iptv3.kbc.al/logo2/automotorundsport.png" group-title="EUROPE",DE: Auto Motor und Sport
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/405
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: DW-TV" tvg-logo="http://iptv3.kbc.al/logo/DW.png" group-title="EUROPE",DE: DW-TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/467
+#EXTINF:-1 tvg-id="DE: Motorvision" tvg-name="DE: Motorvision" tvg-logo="http://185.222.138.254/logo/Motorvision-TV.png" group-title="EUROPE",DE: Motorvision
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/406
+#EXTINF:-1 tvg-id="Fashion TV" tvg-name="DE: FashionTV" tvg-logo="http://iptv3.kbc.al/logo1/FashionTV.png" group-title="EUROPE",DE: FashionTV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/465
+#EXTINF:-1 tvg-id="MTV" tvg-name="DE: MTV" tvg-logo="http://iptv3.kbc.al/logo/MTV.png" group-title="EUROPE",DE: MTV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/487
+#EXTINF:-1 tvg-id="MTVHits.au" tvg-name="DE: MTV Hits" tvg-logo="http://iptv3.kbc.al/logo/MTV%20Hits.png" group-title="EUROPE",DE: MTV Hits
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/488
+#EXTINF:-1 tvg-id="VH1.HD.in" tvg-name="DE: VH1 Hits" tvg-logo="http://iptv3.kbc.al/logo2/mtv80er.png" group-title="EUROPE",DE: VH1 Hits
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/489
+#EXTINF:-1 tvg-id="VH1" tvg-name="DE: VH1 Classic" tvg-logo="http://iptv3.kbc.al/logo2/mtv90er.png" group-title="EUROPE",DE: VH1 Classic
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/490
+#EXTINF:-1 tvg-id="Euronews.D.ch" tvg-name="DE: Euronews" tvg-logo="http://iptv3.kbc.al/logo1/euronewshd.png" group-title="EUROPE",DE: Euronews
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/491
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: Positive GOLD" tvg-logo="" group-title="EUROPE",DE: Positive GOLD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/529
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: Travelingo" tvg-logo="" group-title="EUROPE",DE: Travelingo
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/530
+#EXTINF:-1 tvg-id="ext" tvg-name="DE: Suite TV" tvg-logo="" group-title="EUROPE",DE: Suite TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/531
+#EXTINF:-1 tvg-id="360TuneBox.cz" tvg-name="DE: 360 TuneBOX" tvg-logo="http://iptv3.kbc.al/logo2/360tunebox.png" group-title="EUROPE",DE: 360 TuneBOX
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/532
+#EXTINF:-1 tvg-id="(FR)..FRANCE.24.be" tvg-name="FR: France24" tvg-logo="http://iptv3.kbc.al/logo1/france24hd.png" group-title="EUROPE",FR: France24
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/492
+#EXTINF:-1 tvg-id="CineStar.TV..1.HD.(HR).ba" tvg-name="TR: Star TV" tvg-logo="https://images-na.ssl-images-amazon.com/images/I/71eVVO4zmWL.png" group-title="EUROPE",TR: Star TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/183
+#EXTINF:-1 tvg-id="TRT.Türk.ch" tvg-name="TR: TRT Turk" tvg-logo="http://iptv3.kbc.al/logo1/trtturkhd.png" group-title="EUROPE",TR: TRT Turk
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/591
+#EXTINF:-1 tvg-id="TRT World.au" tvg-name="TR: TRT World" tvg-logo="http://185.222.138.254/logo/trtworld.png" group-title="EUROPE",TR: TRT World
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/493
+#EXTINF:-1 tvg-id="Show.ch" tvg-name="TR:ShowTurk" tvg-logo="http://iptv3.kbc.al/logo1/showturkhd.png" group-title="EUROPE",TR:ShowTurk
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/592
+#EXTINF:-1 tvg-id="ATV.(TR).ch" tvg-name="TR:ATV HD" tvg-logo="http://iptv3.kbc.al/logo1/ATV.png" group-title="EUROPE",TR:ATV HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/593
+#EXTINF:-1 tvg-id="KANAL.7.HD.tr" tvg-name="TR:Kanal 7 Turk" tvg-logo="http://iptv3.kbc.al/logo1/kanal7hd.png" group-title="EUROPE",TR:Kanal 7 Turk
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/594
+#EXTINF:-1 tvg-id="TV8.tr" tvg-name="TR:TV 8 HD" tvg-logo="http://iptv3.kbc.al/logo1/tv8hd.png" group-title="EUROPE",TR:TV 8 HD
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/595
+#EXTINF:-1 tvg-id="ext" tvg-name="TR:Dost TV" tvg-logo="http://iptv3.kbc.al/logo1/dosttv.png" group-title="EUROPE",TR:Dost TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/596
+#EXTINF:-1 tvg-id="ext" tvg-name="TR:Tek Rumeli" tvg-logo="http://iptv3.kbc.al/logo2/tekrumeli.png" group-title="EUROPE",TR:Tek Rumeli
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/597
+#EXTINF:-1 tvg-id="Kral.Pop.Radyo.tr" tvg-name="TR:Kral TV" tvg-logo="http://iptv3.kbc.al/logo1/kraltv.png" group-title="EUROPE",TR:Kral TV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/599
+#EXTINF:-1 tvg-id="NTV.HD.tr" tvg-name="TR:NTV" tvg-logo="http://iptv3.kbc.al/logo1/ntv.png" group-title="EUROPE",TR:NTV
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/645
+#EXTINF:-1 tvg-id="TRT.Müzik.ch" tvg-name="TR:TRT Muzik" tvg-logo="http://iptv3.kbc.al/logo1/trtmuzikhd.png" group-title="EUROPE",TR:TRT Muzik
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/653
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.HD.it" tvg-name="IT:Sky Cinema Uno" tvg-logo="http://iptv3.kbc.al/logo1/skycinemaunohd.png" group-title="EUROPE",IT:Sky Cinema Uno
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/621
+#EXTINF:-1 tvg-id="ext" tvg-name="IT:Sky Cinema  Duo" tvg-logo="" group-title="EUROPE",IT:Sky Cinema  Duo
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/622
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.HD.it" tvg-name="IT:Sky Cinema Comedy" tvg-logo="http://iptv3.kbc.al/logo1/skycomedyhd.png" group-title="EUROPE",IT:Sky Cinema Comedy
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/623
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.HD.it" tvg-name="IT:Sky Cinema Action" tvg-logo="" group-title="EUROPE",IT:Sky Cinema Action
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/624
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="IT:Sky Cinema Collection" tvg-logo="" group-title="EUROPE",IT:Sky Cinema Collection
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/625
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="IT:Sky Cinema Collection1" tvg-logo="http://iptv3.kbc.al/logo1/skycinemacollectionhd.png" group-title="EUROPE",IT:Sky Cinema Collection1
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/626
+#EXTINF:-1 tvg-id="ext" tvg-name="SR: B92" tvg-logo="http://iptv3.kbc.al/logo2/b92.png" group-title="EUROPE",SR: B92
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/439
+#EXTINF:-1 tvg-id="ext" tvg-name="MK: MPT 2" tvg-logo="http://iptv3.kbc.al/logo2/mpt2.png" group-title="EUROPE",MK: MPT 2
+http://iptv3.kbc.al:25461/blerimzyhrani/vKQrHeCTjYkQ/482
+#EXTINF:-1 tvg-id="" tvg-name="The Seerah - 01" tvg-logo="https://ih1.redbubble.net/image.3720993572.1555/fposter,small,wall_texture,square_product,600x600.u1.jpg" group-title="The Seerah of the Prophet Muhammad - Shaykh Belal Assaad",The Seerah - 01
+https://www.youtube.com/watch?v=D9uj40sq2bc
+#EXTINF:-1 tvg-id="" tvg-name="The Seerah - 02" tvg-logo="https://ih1.redbubble.net/image.3720993572.1555/fposter,small,wall_texture,square_product,600x600.u1.jpg" group-title="The Seerah of the Prophet Muhammad - Shaykh Belal Assaad",The Seerah - 02
+https://www.youtube.com/watch?v=0sLYG4d-aIU
+#EXTINF:-1 tvg-id="" tvg-name="The Seerah - 03 - Pre Islamic Arabia" tvg-logo="https://ih1.redbubble.net/image.3720993572.1555/fposter,small,wall_texture,square_product,600x600.u1.jpg" group-title="The Seerah of the Prophet Muhammad - Shaykh Belal Assaad",The Seerah - 03 - Pre Islamic Arabia
+https://www.youtube.com/watch?v=otNufi7NVT4
+#EXTINF:-1 tvg-id="" tvg-name="The Seerah - 04" tvg-logo="https://ih1.redbubble.net/image.3720993572.1555/fposter,small,wall_texture,square_product,600x600.u1.jpg" group-title="The Seerah of the Prophet Muhammad - Shaykh Belal Assaad",The Seerah - 04
+https://www.youtube.com/watch?v=GY2pkUSY4Dw
+#EXTINF:-1 tvg-id="" tvg-name="The Seerah - 05 - childhood to marriage" tvg-logo="https://ih1.redbubble.net/image.3720993572.1555/fposter,small,wall_texture,square_product,600x600.u1.jpg" group-title="The Seerah of the Prophet Muhammad - Shaykh Belal Assaad",The Seerah - 05 - childhood to marriage
+https://www.youtube.com/watch?v=FyBHhtQXkVw
+#EXTINF:-1 tvg-id="" tvg-name="The Seerah - 06 - early life to Prophethood" tvg-logo="https://ih1.redbubble.net/image.3720993572.1555/fposter,small,wall_texture,square_product,600x600.u1.jpg" group-title="The Seerah of the Prophet Muhammad - Shaykh Belal Assaad",The Seerah - 06 - early life to Prophethood
+https://www.youtube.com/watch?v=rk0Btlu2mCA
+#EXTINF:-1 tvg-id="" tvg-name="The Seerah - 07" tvg-logo="https://ih1.redbubble.net/image.3720993572.1555/fposter,small,wall_texture,square_product,600x600.u1.jpg" group-title="The Seerah of the Prophet Muhammad - Shaykh Belal Assaad",The Seerah - 07
+https://www.youtube.com/watch?v=BfzwfaAioR0
+#EXTINF:-1 tvg-id="" tvg-name="The Seerah - 08 Biography age 35 yrs onwards" tvg-logo="https://ih1.redbubble.net/image.3720993572.1555/fposter,small,wall_texture,square_product,600x600.u1.jpg" group-title="The Seerah of the Prophet Muhammad - Shaykh Belal Assaad",The Seerah - 08 Biography age 35 yrs onwards
+https://www.youtube.com/watch?v=lNdExsZv1vI
+#EXTINF:-1 tvg-id="" tvg-name="The Seerah - 09" tvg-logo="https://ih1.redbubble.net/image.3720993572.1555/fposter,small,wall_texture,square_product,600x600.u1.jpg" group-title="The Seerah of the Prophet Muhammad - Shaykh Belal Assaad",The Seerah - 09
+https://www.youtube.com/watch?v=jbY1V5ms1HU
+#EXTINF:-1 tvg-id="" tvg-name="The Seerah - 10 - persecution and challenges" tvg-logo="https://ih1.redbubble.net/image.3720993572.1555/fposter,small,wall_texture,square_product,600x600.u1.jpg" group-title="The Seerah of the Prophet Muhammad - Shaykh Belal Assaad",The Seerah - 10 - persecution and challenges
+https://www.youtube.com/watch?v=tQkrT8UvWzM
